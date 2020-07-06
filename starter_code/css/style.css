@@ -1,0 +1,80 @@
+header {
+  background-image: url(../images/header_bg.jpg);
+  background-size: cover;
+  height: 500px;
+
+}
+h1, p {
+  color:white;
+}
+
+p {  
+  text-align: center;
+  font-size: 24px;
+}
+
+
+button { 
+  background-color: #f9e42e;
+  display: block;
+  margin: 0 auto;
+  width: 100px;
+  height: 30px;
+}
+
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bold;
+
+}
+
+section {
+  background-image: url(../images/testimonial_bg.jpg);
+  height: 200px;
+}
+
+blockquote {
+  color:white;
+  font-size: 18px;
+  text-align:center;
+}
+
+}
+#B2{
+	margin: 0;
+	width: 30;
+	padding:14px;
+	font-size:18px;
+	border:5px;
+	position:absolute;
+	display:flex;
+  font-size:;
+  text-align:center;
+  background-color:blue;
+  top: 50%;
+  left:60%;
+  border-radius:120px;
+}
+
+#H2{
+
+
+
+}
+
+div {
+  background-color: #f9e42e;
+  height: 200px;
+}
+
+div button {
+  background:#033048;
+  color: white;
+}
+footer{
+  background-color: black;
+  color: white;
+
+}h5 color:#f9e42e;
+
+
